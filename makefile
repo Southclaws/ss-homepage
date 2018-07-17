@@ -1,11 +1,11 @@
 build:
 	docker build \
-		-t southclaws/tw-homepage:latest \
+		-t southclaws/ss-homepage:latest \
 		.
 
 run:
-	-docker rm tw-homepage
+	-docker rm ss-homepage
 	docker run \
-		--name tw-homepage \
+		--name ss-homepage \
 		--publish 8080:80 \
-		southclaws/tw-homepage:latest
+		southclaws/ss-homepage:latest
