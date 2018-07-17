@@ -10,7 +10,7 @@ survival, but trust is hard to find.
 The game is run by the players. All rules and events are determined by players,
 not staff or devs.
 
-# The Wiki
+## The Wiki
 
 This Wiki will document all the available items and most of their common uses or
 craft combinations. Some things are left for the players to find but there's
@@ -24,6 +24,6 @@ nothing against anyone writing about their findings on this site!
 - [Containers](/wiki/containers.md)
 - [Vehicles](/wiki/vehicles.md)
 
-# Contributors
+## Contributors
 
 [See a list of wiki contributors here!](contributors.md)
